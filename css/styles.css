@@ -1,0 +1,65 @@
+header{
+    background-color: rgb(235, 10,30);
+    color: white;
+    padding-left: 20px;
+}
+
+footer{
+    background-color: rgb(235, 10,30);
+    color: white;
+    padding-left: 20px;
+    position: fixed;
+    padding: 10px 10px 10px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/ 
+    height: 40px;
+}
+
+main{
+    padding: 20px;
+}
+
+/* #menu{
+    padding: 30px;
+    padding-right: 50px;
+} */
+
+form{
+    padding: 20px;
+}
+
+input, textarea, select {
+    margin-bottom: 10px;
+  }
+
+nav{
+    padding: 30px;
+    background-color: black;
+    color: white;
+  }
+
+.nav_links {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding: 5px;
+  }
+
+a{
+    color: white;
+}
+
+.bodylinks{
+    color: black;
+}
+
+#sap{
+    background-color: #638197;
+    color: white;
+}
+
+#tmh{
+    background-color: #e77418;
+    color: white;
+}
